@@ -10,7 +10,7 @@ To convert 64 into binary, we used repeated division by 2 and noted the remainde
 32/2 = 16, remainder 0
 16/2 = 8, remainder 0
 8/2 = 4, remainder 0
-4/2 = 2, reaminder 0
+4/2 = 2, remainder 0
 2/2 = 1, remainder 0
 1/2 = 0, remainder 1
 Now, we have to write the remainders from bottom to top: 
